@@ -17,7 +17,7 @@ const headers = {
 }
 
 module.exports = {
-  site: 'tvguide.com',
+  site: 'tvguide.comlocal',
   days: 2,
   request: {
     headers: function () {
